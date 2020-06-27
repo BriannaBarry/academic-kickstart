@@ -16,8 +16,6 @@ role: Neuroscience PhD Candidate
 organizations:
 - name: Johns Hopkins University
   url: "https://bcmb.bs.jhmi.edu/"
--name: Lieber Institute for Brain Development
-  url: "libd.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Jack of all trades, master of none, though I am getting a PhD in one.
@@ -41,6 +39,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -54,14 +53,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/briannabarry
--icon: linkedin
+- icon: linkedin
   icon_pack: fab
   link: www.linkedin.com/in/briannabarry
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+  icon_pack: ai
+  link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

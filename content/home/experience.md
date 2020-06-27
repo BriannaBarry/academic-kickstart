@@ -17,6 +17,8 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
 title = "Neuroscience PhD Candidate"
 company = "Johns Hopkins University"
 date_start = "2017-08-01"
@@ -105,16 +107,14 @@ company = "University of Texas at Austin, Hawkes Lab"
 date_start = "2014-05-01"
 date_end = "2017-05-01"
 
-
 [[experience]]
 title = "Undergraduate Researcher"
 company = "University of Texas at Austin, Duvauchelle Lab"
 date_start = "2015-06-01"
 date_end = "2016-12-01"
 
-
 [[experience]]
-title = [Writer](https://biomedicalodyssey.blogs.hopkinsmedicine.org/author/briannabarry/)
+title = "Writer"
 company = "Biomedical Odyssey, Johns Hopkins University School of Medicine"
 date_start = "2019-07-01"
 date_end = "2019-12-01"
