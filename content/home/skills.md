@@ -18,19 +18,31 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
-  
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "dna"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Genomics"
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Neuroscience"
+
+[[feature]]
+  icon = "vial"
+  icon_pack = "fas"
+  name = "Molecular Biology"
+
+[[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Science Communication"
 
 # Uncomment to use emoji icons.
 # [[feature]]
